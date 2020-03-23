@@ -9,4 +9,4 @@ The key points derived form this project is as follows:
 1. Logistic Regression get us the max accuracy of 88.5% 
 2. Age doesnot seem to affect the heart disease which might be due to the dataset insufficiency. 
 3. The most important features which dictate the probability of one having a heart disease are the SEX, CP, EXANG, CA & THAL. 
-4. The models can be further tweeked to meet out set 95% limit by increasing a fair amount of hyperparameter tuning and can be verified using cross-validation > 5.
+4. The models can be further tweeked to meet out set 95% limit through a fair bit of hyperparameter tuning that can be verified using cross-validation > 5.
